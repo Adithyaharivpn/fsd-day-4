@@ -86,10 +86,11 @@ for (let i = 1; i <=5 ;i++)
 
     }
 
-*/
+
 
 //reverse
-
+array.splice(0,1) // index,number elements to be removed
+*/
 const str= "Hello Nirmala!"
 for (let  i=0;  i<str.length; i++) {
     
